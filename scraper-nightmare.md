@@ -24,4 +24,7 @@
 ### Checks to make a good scraper
 - check the robot.txt in the root directory of the site.
 - It is good to setup user-agent using (more about [user-agents]())
-    .useragent('your user agent here')
+    `.useragent('your user agent here')`
+- Robots may get detected based on their behaviour. One of those behaviours is waiting time. So I use random wait timees.
+- 
+
