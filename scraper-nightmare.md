@@ -7,7 +7,7 @@
 - npm
 
 ### Hello World
-`code` const Nightmare = require('nightmare');
+    const Nightmare = require('nightmare');
     nightmare = Nightmare({show: true, waitTimeout: 500000, openDevTools: true});
     nightmare
         .goto('https://duckduckgo.com')
