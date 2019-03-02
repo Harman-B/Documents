@@ -28,3 +28,6 @@
     (more about [user-agents]())
 - Robots may get detected based on their behaviour. One of those behaviours is waiting time. So I use random wait times.
 
+### Other links
+- how to detect bots [link](https://ppcprotect.com/how-to-detect-bot-traffic/)
+- 
