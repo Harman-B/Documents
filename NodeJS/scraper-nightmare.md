@@ -30,4 +30,4 @@
 
 ### Other links
 - how to detect bots [link](https://ppcprotect.com/how-to-detect-bot-traffic/)
-- 
+- linkedin scraper by [FutoRicky](https://github.com/FutoRicky/linkedin-email-extractor/blob/master/index.js)

@@ -7,4 +7,9 @@
 ## Cloud Shell
 - az, azure
 
+## Setting up Azure VM for running basic NodeJS program
+- created a VM using the following:
+
+- install node
+
 ### Other links
